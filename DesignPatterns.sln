@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryDesign", "FactoryDes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactoryPattern", "AbstractFactoryPattern\AbstractFactoryPattern.csproj", "{F160BEE3-796C-4899-BFAB-937506172FCA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototypeDesign", "PrototypeDesign\PrototypeDesign.csproj", "{400D417B-0444-4820-9C33-8120446F8975}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderDP", "BuilderDP\BuilderDP.csproj", "{63595859-AB58-4DF8-9D4B-3483F2C868D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{F160BEE3-796C-4899-BFAB-937506172FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F160BEE3-796C-4899-BFAB-937506172FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F160BEE3-796C-4899-BFAB-937506172FCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{400D417B-0444-4820-9C33-8120446F8975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{400D417B-0444-4820-9C33-8120446F8975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{400D417B-0444-4820-9C33-8120446F8975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{400D417B-0444-4820-9C33-8120446F8975}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63595859-AB58-4DF8-9D4B-3483F2C868D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63595859-AB58-4DF8-9D4B-3483F2C868D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63595859-AB58-4DF8-9D4B-3483F2C868D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63595859-AB58-4DF8-9D4B-3483F2C868D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
